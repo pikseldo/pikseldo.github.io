@@ -1,0 +1,7 @@
+clothes.png
+clouds.gif
+fire.gif
+landscape.gif
+monster.gif
+pet.png
+weapon.gif
