@@ -1,0 +1,16 @@
+clouds.png
+landscape.gif
+clothes.png
+monster.gif
+fire.gif
+weapon.gif
+pet.png
+
+dog.gif
+cat.png
+magic.gif
+metal.png
+flower.png
+portrait.png
+explosion.gif
+
