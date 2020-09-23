@@ -1,3 +1,11 @@
+monster2.png
+create.png
+tree.png
+pet2.png
+lizard.png
+food.png
+flower2.png
+
 clouds.png
 landscape.gif
 clothes.png
